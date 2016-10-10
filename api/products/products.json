@@ -1,0 +1,82 @@
+[
+    {
+        "productId": 1,
+        "productName": "Bombs",
+        "itemType": "Weapon",
+        "releaseDate": "5",
+        "description": "Geniune Goron Bombs. Blows up stuff!",
+        "price": 30,
+        "starRating": 4.2,
+        "imageUrl": "./app/assets/images/bomb.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Arrows",
+        "itemType": "Weapon",
+        "releaseDate": "30",
+        "description": "Bundle of steel-tipped arrows. Must have quiver.",
+        "price": 60,
+        "starRating": 4.4,
+        "imageUrl": "./app/assets/images/arrow.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Deku Stick",
+        "itemType": "Weapon",
+        "releaseDate": "1",
+        "description": "Long wooden stick. Light on fire and use as torch!",
+        "price": 10,
+        "starRating": 1.8,
+        "imageUrl": "./app/assets/images/dekustick.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Hylian Shield",
+        "itemType": "Armor",
+        "releaseDate": "1",
+        "description": "Protective yourself with this shield. Warranty does not include being eaten.",
+        "price": 80,
+        "starRating": 4.3,
+        "imageUrl": "./app/assets/images/hylianshield.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Fairy Spirit",
+        "itemType": "Health",
+        "releaseDate": "1",
+        "description": "Use this to rejuvenate your health. Must have empty bottle.",
+        "price": 50,
+        "starRating": 5,
+        "imageUrl": "./app/assets/images/fairyspirit.png"
+    },
+    {
+        "productId": 13,
+        "productName": "Red Potion",
+        "itemType": "Health",
+        "releaseDate": "1",
+        "description":30,
+        "price": 30,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/redpotion.png"
+    },
+    {
+        "productId": 15,
+        "productName": "Deku Nuts",
+        "itemType": "Weapon",
+        "releaseDate": "5",
+        "description": "Use these to stun your enemies.",
+        "price": 15,
+        "starRating": 2.6,
+        "imageUrl": "./app/assets/images/dekunut.png"
+    },
+    {
+        "productId": 19,
+        "productName": "Green Potion",
+        "itemType": "Magic",
+        "releaseDate": "1",
+        "description": "Use this to rejuvenate your magic. Must have empty bottle.",
+        "price": 30,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/greenpotion.png"
+    }
+]
